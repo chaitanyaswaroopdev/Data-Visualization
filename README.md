@@ -11,27 +11,27 @@ It also consists of p.Sales  as a parameter field which is used to calculate top
 We also have calculated fields like miles driven which is computed from km driven and price in rupees is changed to price in dollars.
 
 ## Parameters Included: -
-Sales_ID (Sales ID)
-name (Name of the used car)
-year (Year of the car purchase)
-selling_price (Current selling price for used car)
-km_driven (Total km driven)
-Region (Region where it is used)
-State or Province (State or Province where it is used)
-City (City where it is used)
-fuel (Fuel type)
-seller_type (Who is selling the car)
-transmission (Transmission type of the car)
-owner (Owner type)
-mileage (Mileage of the car)
-engine (engine power)
-max_power (max power)
-seats (Number of seats)
-sold (used car sold or not)
+Sales_ID (Sales ID) <br/>
+name (Name of the used car) <br/>
+year (Year of the car purchase) <br/>
+selling_price (Current selling price for used car) <br/>
+km_driven (Total km driven) <br/>
+Region (Region where it is used) <br/>
+State or Province (State or Province where it is used) <br/>
+City (City where it is used) <br/>
+fuel (Fuel type) <br/>
+seller_type (Who is selling the car) <br/>
+transmission (Transmission type of the car) <br/>
+owner (Owner type) <br/>
+mileage (Mileage of the car) <br/>
+engine (engine power) <br/>
+max_power (max power) <br/>
+seats (Number of seats) <br/>
+sold (used car sold or not) <br/>
 
 Now that we are comfortable with the data, let's load it into Tableau and begin making some visuals to learn where the coffee chain is failing and where it has chances.
 
 ## Domain for the Dataset: -
-Data Source Link: - [Used Cars](https://www.kaggle.com/datasets/shubham1kumar/usedcar-data?select=UserCarData.csv)
-Data Visualization Tool: - [Tableau Desktop](https://www.tableau.com/products/desktop) official site.
+Data Source Link: - [Used Cars](https://www.kaggle.com/datasets/shubham1kumar/usedcar-data?select=UserCarData.csv) <br/>
+Data Visualization Tool: - [Tableau Desktop](https://www.tableau.com/products/desktop) official site. <br/>
                            [Tableau Desktop](https://www.filehorse.com/download-tableau-desktop/download/) Third party link.
