@@ -33,5 +33,37 @@ Now that we are comfortable with the data, let's load it into Tableau and begin 
 
 ## Domain for the Dataset: -
 Data Source Link: - [Used Cars](https://www.kaggle.com/datasets/shubham1kumar/usedcar-data?select=UserCarData.csv) <br/>
-Data Visualization Tool: - [Tableau Desktop](https://www.tableau.com/products/desktop) official site. <br/>
-                           [Tableau Desktop](https://www.filehorse.com/download-tableau-desktop/download/) Third party link.
+Data Visualization Tool: - <br/>
+[Tableau Desktop](https://www.tableau.com/products/desktop) official site. <br/>
+[Tableau Desktop](https://www.filehorse.com/download-tableau-desktop/download/) Third party link. <br/>
+
+## Data Cleaning Techniques: -
+There are no special symbols or empty spaces in the data. Therefore, no data cleaning techniques were employed. <br/>
+
+## Goals of Project: -
+### Goal – 1 (Line Chart): - 
+The objective is to find out vehicles sold in respective years in different states. <br/>
+
+### Goal – 2 (Multi-Bar Chart): - 
+The objective is to find the best milage providing cars based on different states in USA. <br/>
+
+### Goal – 3 (Dual Layer Map): - 
+The objective is to find out the comparison based on average mileage and average miles driven by different car companies in united states. <br/>
+
+### Goal – 4 (Tree Map): - 
+The objective is to find the average milage given by different car companies. <br/>
+
+### Goal – 5 (Bubble Chart): - 
+The objective is to find the relation between selling price and the ownership of cars. <br/>
+
+### Goal – 6 (Horizontal Bar): - 
+To observe the average selling price of different car companies in United States of America. <br/>
+
+### Goal – 7 (Pie Chart): - 
+The objective is to find out region wise sales of all the car brands in USA. <br/>
+
+## Conclusion: - 
+From 1994 to 2020, after the data had been examined and evaluated, objectives were established for them. After Viewing the dashboards, it will be simple to examine the dataset on different aspects as Mileage, Miles driven across USA as in individual States.
+
+## Link: -
+Click here [Tableau Public Link](https://public.tableau.com/app/profile/chaitanya.swaroop.udata) to redirect Tableau Public.
