@@ -34,8 +34,8 @@ Now that we are comfortable with the data, let's load it into Tableau and begin 
 ## Domain for the Dataset: -
 Data Source Link: - [Used Cars](https://www.kaggle.com/datasets/shubham1kumar/usedcar-data?select=UserCarData.csv) <br/>
 Data Visualization Tool: - <br/>
-[Tableau Desktop](https://www.tableau.com/products/desktop) official site. <br/>
-[Tableau Desktop](https://www.filehorse.com/download-tableau-desktop/download/) Third party link. <br/>
+[Tableau Desktop](https://www.tableau.com/products/desktop) (official site). <br/>
+[Tableau Desktop](https://www.filehorse.com/download-tableau-desktop/download/) (Third party link). <br/>
 
 ## Data Cleaning Techniques: -
 There are no special symbols or empty spaces in the data. Therefore, no data cleaning techniques were employed. <br/>
